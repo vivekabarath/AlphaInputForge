@@ -1,5 +1,3 @@
-Below is a complete GitHub README that documents the project, explains all the required installations, and describes all features.
-
 ---
 
 # AlphaInputForge
