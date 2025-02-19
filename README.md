@@ -108,7 +108,7 @@ Replace `uniref90.fasta` with your database FASTA file. The resulting database (
   The TSV file should have the same name as the FASTA file, but with the `.tsv` extension (e.g., `cyp1.tsv`).  
   Alternatively, if no such file exists, a file named `Uniform.tsv` will be used as a fallback.
 - **File Format:**  
-  Tab-separated with at least three columns:  
+  Tab-separated with three columns:  
   - **Protein_ID:** Must match the protein ID from the first FASTA header (e.g., `sp|P05108|CP11A_HUMAN`)
   - **Ligand_ID:** e.g., `Heme_B`
   - **SMILES:** e.g., `CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)[O-])CCC(=O)[O-].[Fe]`
