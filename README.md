@@ -183,6 +183,8 @@ Output folder 'OUTPUT_FOLDER' already exists. Delete it and create a new one? (y
 - If **`y`** is entered, the folder is deleted and recreated.
 - If **`n`** is entered, a new folder with a timestamp appended to its name is created, and that folder is used as the output folder.
 
+## The final JSON and A3M files are placed in a folder named "JSON_A3M" inside the Output folder ##
+
 ## Contributing
 Contributions and improvements are welcome! Please open issues or submit pull requests for enhancements or bug fixes.
 
