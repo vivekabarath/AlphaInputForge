@@ -185,7 +185,7 @@ Output folder 'OUTPUT_FOLDER' already exists. Delete it and create a new one? (y
 
 
 
-- **The final JSON and A3M files are placed in a folder named "JSON_A3M" inside the Output folder **
+- The final JSON and A3M files are placed in a folder named "JSON_A3M" inside the Output folder.
 
 
 
