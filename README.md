@@ -185,7 +185,7 @@ Output folder 'OUTPUT_FOLDER' already exists. Delete it and create a new one? (y
 
 
 
-# The final JSON and A3M files are placed in a folder named "JSON_A3M" inside the Output folder #
+- **The final JSON and A3M files are placed in a folder named "JSON_A3M" inside the Output folder **
 
 
 
@@ -195,18 +195,4 @@ Contributions and improvements are welcome! Please open issues or submit pull re
 ## License
 This project is licensed under the MIT License.
 
----
 
-### **Summary**
-AlphaInputForge automates the generation of input files for AlphaFold 3 by:
-- Generating MSAs using MMseqs2 from protein FASTA files.
-- Integrating ligand data from TSV files (with JSON-escaped SMILES strings via jq).
-- Creating well-structured JSON input files that list protein entries first, followed by ligand entries.
-- Providing detailed logging and robust error handling.
-- Offering flexible output folder management.
-
-Feel free to modify this README to fit your needs and add any additional instructions or details!
-
----
-
-This README can now be added to your GitHub repository for **AlphaInputForge**. Let me know if you need further modifications or additional sections!
