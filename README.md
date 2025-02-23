@@ -122,7 +122,7 @@ Replace `uniref90.fasta` with your database FASTA file. The resulting database (
 
 Run the script using the following command:
 ```bash
-python generate_alphafold3_json.py --input_path ./input --output_path ./output \
+python AlphaInputForge.py --input_path ./input --output_path ./output \
   --cpu 16 --mmseqs_bin /usr/local/bin/mmseqs --mmseqs_DB ./db/uniref90 --verbose
 ```
 
